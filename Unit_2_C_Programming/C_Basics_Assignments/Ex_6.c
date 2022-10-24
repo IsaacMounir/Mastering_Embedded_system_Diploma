@@ -17,6 +17,7 @@ int main()
     scanf("%d", &a);
     printf("Enter the value of b = ");
     scanf("%d", &b);
+    // swap numbers with temp variable  //
     temp = a;
     a = b;
     b = temp;
