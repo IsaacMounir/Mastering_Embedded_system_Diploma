@@ -3,7 +3,7 @@
  Name        : EX3_C_Program_to_Find_The_Largest_Number.c
  Author      : Isaac Mounir
  Created on	 : oct 24, 2022
- Description : Unit 2 C-Progtamming >> Assignment 2 C-Basic >> EX3 C Program to find the largest number using Ansi-style (c99)
+ Description : Unit 2 C-Programming >> Assignment 2 C-Basic >> EX3 C Program to find the largest number using Ansi-style (c99)
  ======================================================================================================================
  */
 
